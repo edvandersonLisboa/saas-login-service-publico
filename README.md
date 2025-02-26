@@ -1,3 +1,7 @@
+## Pull Requests Recentes
+
+Prepare o ☕ :[**Number Pull Request**:15](https://github.com/edvandersonLisboa/saas-login-service/pull/15)<br> > **📝 Revert 2 public**<br>**🙎‍♂️ User:**  _edvandersonLisboa<br> **📌 Status:**`closed`)_ <br> [**Saiba mais sobre o pull request** 📄 ](https://github.com/edvandersonLisboa/saas-login-service-publico/issues/1)
+
 # SaaS Authentication Service Publico
 
 Uma aplicação de autenticação multi-tenant (SaaS) para gerenciar logins de múltiplos clientes (empresas) e suas aplicações, construída com **.NET 8 Minimal API** e **Entity Framework**. Permite que empresas registrem suas aplicações e gerenciem usuários de forma isolada, com autenticação JWT e identificação de tenant/aplicação. <br>
