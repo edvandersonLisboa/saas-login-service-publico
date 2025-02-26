@@ -34,4 +34,9 @@ Uma aplicação de autenticação multi-tenant (SaaS) para gerenciar logins de m
    cd saas-login-service
 
 ## Quantidades de xícara de café consumidas nesse projeto. [issues]
+
+☕:[20](https://github.com/edvandersonLisboa/saas-login-service/pull/20)<br> 
+
+ > **📝 Atualização da arquitetura inicial**<br>**🙎‍♂️ User:**  _edvandersonLisboa<br> **📌 Status:**`closed`)_ <br> [**Saiba mais sobre o pull request** 📄 ](https://github.com/edvandersonLisboa/saas-login-service-publico/issues/6) 
+ #
 <!-- PR_ENTRIES -->
