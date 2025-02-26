@@ -38,3 +38,4 @@ Uma aplicação de autenticação multi-tenant (SaaS) para gerenciar logins de m
    cd saas-login-service
 
 ## Quantidades de xícara de café consumidas nesse projeto. [issues]
+<!-- PR_ENTRIES -->
