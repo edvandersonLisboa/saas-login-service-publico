@@ -1,6 +1,6 @@
 # SaaS Authentication Service Publico
 
-Uma aplicação de autenticação multi-tenant (SaaS) para gerenciar logins de múltiplos clientes (empresas) e suas aplicações, construída com **.NET 8 Minimal API** e **Entity Framework**. Permite que empresas registrem suas aplicações e gerenciem usuários de forma isolada, com autenticação JWT e identificação de tenant/aplicação. 
+Uma aplicação de autenticação multi-tenant (SaaS) para gerenciar logins de múltiplos clientes (empresas) e suas aplicações, construída com **.NET 8 Minimal API** e **Entity Framework**. Permite que empresas registrem suas aplicações e gerenciem usuários de forma isolada, com autenticação JWT e identificação de tenant/aplicação. <br>
 **observações**: essa e a arquitetura inicial da aplicação o desenvolvimento real acontece no repositorio privado. Acompanhe as issues no final desse arquivo.
 
 ---
